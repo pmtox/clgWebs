@@ -1,3 +1,1 @@
-CREATED BY 
-@aman1685
-@pmtox
+Technologies Used: HTML, CSS, JavaScript Developed a fully responsive and user-friendly website for my college, showcasing information such as departments, events, faculty, and admission details. Implemented clean navigation, interactive UI elements, and optimized layout for mobile and desktop devices using HTML/CSS.
